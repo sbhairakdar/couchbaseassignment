@@ -1,0 +1,10 @@
+ignore top level directories (note, to ignore all bin directories, use bin/ instead)
+/bin
+/build
+/classes
+/target
+/.settings
+/.idea
+test-output/*
+.classpath
+
